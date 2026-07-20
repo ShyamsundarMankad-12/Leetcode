@@ -1,0 +1,4 @@
+/* Write your T-SQL query statement below */
+SELECT E.NAME , EN.UNIQUE_ID 
+FROM EMPLOYEES E LEFT JOIN EMPLOYEEUNI EN
+ON E.ID = EN.ID
