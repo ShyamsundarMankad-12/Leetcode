@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0326-power-of-three) |
+| [2745-construct-the-longest-new-string](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/2745-construct-the-longest-new-string) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -50,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0326-power-of-three) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2745-construct-the-longest-new-string](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/2745-construct-the-longest-new-string) |
+## Greedy
+|  |
+| ------- |
+| [2745-construct-the-longest-new-string](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/2745-construct-the-longest-new-string) |
+## Brainteaser
+|  |
+| ------- |
+| [2745-construct-the-longest-new-string](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/2745-construct-the-longest-new-string) |
 <!---LeetCode Topics End-->
