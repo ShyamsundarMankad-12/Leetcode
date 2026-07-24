@@ -63,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2745-construct-the-longest-new-string](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/2745-construct-the-longest-new-string) |
+## Database
+|  |
+| ------- |
+| [1661-average-time-of-process-per-machine](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
