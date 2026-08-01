@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2745-construct-the-longest-new-string](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/2745-construct-the-longest-new-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -89,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## String
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
