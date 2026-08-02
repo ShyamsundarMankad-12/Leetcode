@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0197-rising-temperature) |
 | [1661-average-time-of-process-per-machine](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/1661-average-time-of-process-per-machine) |
 ## Tree
 |  |
