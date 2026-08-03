@@ -1,0 +1,18 @@
+class Solution {
+    public String reverseStr(String s, int k) {
+        int n = s.length();
+       char[] l = s.toCharArray();
+       for(int i = 0;i<n;i+=(2*k)){
+            int left = i;
+            int right = Math.min(i+k-1,n-1);
+            while(left < right){
+                char temp = l[left];
+                l[left] = l[right];
+                l[right] = temp;
+                left++;
+                right--;
+            }
+       }
+       return new String(l);
+    }
+}
