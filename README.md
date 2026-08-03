@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0541-reverse-string-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0392-is-subsequence) |
 | [2745-construct-the-longest-new-string](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/2745-construct-the-longest-new-string) |
 ## Greedy
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0541-reverse-string-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
