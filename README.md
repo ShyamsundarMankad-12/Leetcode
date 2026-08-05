@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0541-reverse-string-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Bit Manipulation
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
@@ -128,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
