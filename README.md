@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0287-find-the-duplicate-number) |
 | [0748-shortest-completing-word](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0748-shortest-completing-word) |
 | [1260-shift-2d-grid](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/1260-shift-2d-grid) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0541-reverse-string-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
@@ -135,4 +138,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0234-palindrome-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
