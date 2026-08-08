@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0048-rotate-image) |
 | [0326-power-of-three](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0326-power-of-three) |
 | [2745-construct-the-longest-new-string](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/2745-construct-the-longest-new-string) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0260-single-number-iii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0260-single-number-iii) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/1260-shift-2d-grid) |
 ## Recursion
 |  |
