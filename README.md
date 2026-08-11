@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2951-find-the-peaks](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/2951-find-the-peaks) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0389-find-the-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0389-find-the-difference) |
 | [0748-shortest-completing-word](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0748-shortest-completing-word) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
