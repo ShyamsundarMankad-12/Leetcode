@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0260-single-number-iii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0287-find-the-duplicate-number) |
+| [0503-next-greater-element-ii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0503-next-greater-element-ii) |
 | [0748-shortest-completing-word](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0748-shortest-completing-word) |
 | [1260-shift-2d-grid](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/1260-shift-2d-grid) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
