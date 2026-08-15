@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0389-find-the-difference) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Matrix
 |  |
 | ------- |
