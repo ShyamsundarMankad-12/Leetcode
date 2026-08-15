@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0503-next-greater-element-ii) |
 | [0748-shortest-completing-word](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0748-shortest-completing-word) |
+| [0875-koko-eating-bananas](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/1260-shift-2d-grid) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0287-find-the-duplicate-number) |
+| [0875-koko-eating-bananas](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0875-koko-eating-bananas) |
 ## Pigeonhole Principle
 |  |
 | ------- |
