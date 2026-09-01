@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0260-single-number-iii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0410-split-array-largest-sum) |
 | [0503-next-greater-element-ii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0503-next-greater-element-ii) |
 | [0748-shortest-completing-word](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0748-shortest-completing-word) |
 | [0875-koko-eating-bananas](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0875-koko-eating-bananas) |
@@ -99,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0410-split-array-largest-sum) |
 | [2745-construct-the-longest-new-string](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/2745-construct-the-longest-new-string) |
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0410-split-array-largest-sum) |
 | [2745-construct-the-longest-new-string](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/2745-construct-the-longest-new-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Brainteaser
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0410-split-array-largest-sum) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 ## Queue
 |  |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1901-find-a-peak-element-ii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/1901-find-a-peak-element-ii) |
