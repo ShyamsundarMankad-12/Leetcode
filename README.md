@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0048-rotate-image) |
 | [0326-power-of-three](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0326-power-of-three) |
+| [0836-rectangle-overlap](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0836-rectangle-overlap) |
 | [2745-construct-the-longest-new-string](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/2745-construct-the-longest-new-string) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -220,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0503-next-greater-element-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ShyamsundarMankad-12/Leetode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
